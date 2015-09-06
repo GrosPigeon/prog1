@@ -1,0 +1,13 @@
+public class Ezpressions{
+	public static void main(String[] args){
+		int nb1, nb2;
+		int resultatDivision1;
+		double resultatDivision2;
+		nb1 = 10;
+		nb2 = 6;
+		resultatDivision1 = nb1/nb2;
+		resultatDivision2 = nb1/nb2;
+		System.out.println("resultat 1:"+resultatDivision1);
+		System.out.println("resultat 2:"+resultatDivision2);
+	}
+}
